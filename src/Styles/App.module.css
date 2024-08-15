@@ -1,0 +1,18 @@
+.container {
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.form {
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 10px;
+}
